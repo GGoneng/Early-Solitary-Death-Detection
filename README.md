@@ -15,8 +15,6 @@ Also, The system includes a database (mariaDB) and web interface (Flask).
 ## 🧩 Data Preprocessing
 - **Dataset**: 3 months of water and electric data from 1,000 households
 - **Method**: Applied **Sliding Window** approach to segment time-series data for training
-- **Electricity data**: Used raw values directly (performed best without transformation)
-- **Water data**: Converted to **difference values** for each time step (improved model performance)
 - No missing values found in the dataset
 - No scaling or normalization applied
 
