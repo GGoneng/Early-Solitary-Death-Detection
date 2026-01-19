@@ -37,10 +37,10 @@ Also, The system includes a database (mariaDB) and web interface (Flask).
 |----------------|-----------------------------------|
 | OS              | Windows 11 HOME                  |
 | Language        | Python 3.8, HTML5, CSS3, JavaScript(ES6) |
-| Libraries       | torch, sklearn, matplotlib, flask     |
+| Framework       | PyTorch, Flask                        |
 | Environment     | Jupyter Notebook / VSCode / DBeaver   |
-| RDBMS           | MariaDB                               |
-| Hardware        | GPU                                   |
+| Database        | MariaDB                               |
+| Hardware        | NVIDIA RTX 3080                       |
 
 
 <br><br>
